@@ -1,0 +1,22 @@
+{
+    "name": "nodecg-twitch-chat",
+    "version": "0.021",
+    "description": "Embedded Twitch Chat",
+    "authors": [
+        "Elliot DeNolf"
+    ],
+    "homepage": "",
+    "license": "",
+    "nodecg": {
+        "compatibleRange": "~0.7.0",
+        "dashboardPanels": [{
+            "name": "twitch-chat",
+            "title": "Twitch Chat",
+            "width": 3,
+            "file": "panel.html",
+            "faIcon": "fa-twitch"
+        }]
+    }
+}
+
+
