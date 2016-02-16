@@ -1,0 +1,8 @@
+{
+  "properties": {
+    "username": {
+      "type": "string"
+    }
+  },
+  "required": ["username"]
+}
