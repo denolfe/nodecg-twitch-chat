@@ -1,6 +1,6 @@
 {
     "name": "nodecg-twitch-chat",
-    "version": "0.021",
+    "version": "0.0.2",
     "description": "Embedded Twitch Chat",
     "authors": [
         "Elliot DeNolf"
