@@ -6,11 +6,11 @@
 
 ## Installation
 
-- Install to `nodecg/bundles/twitch-chat`
+- Install to `nodecg/bundles/nodecg-twitch-chat`
 
 ## Usage
 
-- Create `nodecg/cfg/twitch-chat.json` and populate with the sample config
+- Create `nodecg/cfg/nodecg-twitch-chat.json` and populate with the sample config
 
 ### Sample Config
 

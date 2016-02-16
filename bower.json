@@ -1,0 +1,6 @@
+{
+  "name": "nodecg-twitch-chat",
+  "dependencies": {
+    "jquery": "components/jquery"
+  }
+}
